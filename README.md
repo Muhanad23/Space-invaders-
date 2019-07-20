@@ -4,4 +4,4 @@ it's a multiplayer (2 laptops connected together using serial port) game that ha
 # Authors
 1- Muhanad Atef Mustafa        muhanad.atef23@gmail.com
 #
-2- Mahmoud mohamed Mahmoud     mmmmcmp@gmail.com
+2- Mahmoud mohamed Mahmoud     mmmacmp@gmail.com
